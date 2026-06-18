@@ -9,9 +9,9 @@ __pycache__/
 *.ipynb_checkpoints
 
 # ── Data files (large; do not commit raw data to version control) ─────────────
-data/raw/*.csv
-data/processed/*.csv
-*.csv
+# data/raw/*.csv
+# data/processed/*.csv
+# *.csv
 *.parquet
 *.feather
 *.h5
